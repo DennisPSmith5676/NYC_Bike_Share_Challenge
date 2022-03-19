@@ -15,8 +15,8 @@ Tableau Story
 ### Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field. 
 
-![1](images\pic.png)
-![1](images\pic0.png)
+![1](images/pic.png)
+![1](images/pic0.png)
 ![1](images\pic1.png)
 ![1](images\pic2.png)
 
